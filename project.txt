@@ -1,0 +1,6 @@
+We're going to scrape a web site for renting houses and saving data in a csv file. Scraping data means extracting data from a web site.
+The website that we're going to scrape:
+www.pararius.com/apartments/amsterdam?ac=1
+=> we're going to use a python library: Beautifulsoup which is used for scapring websites.
+=> BeautifulSoup looks into the HTML tags that we specify.
+=> we're going to need requests library also because we're going to send requests to a webpage and get some response
